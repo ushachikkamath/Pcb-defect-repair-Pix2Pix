@@ -117,7 +117,9 @@ Checkpoints are saved in
 
 ### 8️⃣ Deployment
 
-The model is hosted on **Hugging Face Spaces** for online inference.
+The model is hosted on **Hugging Face Spaces** for online inference. You can use the files in the sample_images folder to test the model live.
+
+[Try the live demo here](https://huggingface.co/spaces/ushavc/PCB_Defect_Detection_and_Correction_using_pix2pix_GAN)
 
 ---
 
