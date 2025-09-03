@@ -1,0 +1,9 @@
+torch>=1.4.0
+torchvision>=0.5.0
+dominate>=2.4.0
+visdom>=0.1.8.8
+wandb
+!apt-get install -y libsndfile1
+!pip install torch torchvision torchaudio
+!pip install tensorboardX
+!pip install matplotlib tqdm
